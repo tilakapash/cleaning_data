@@ -13,3 +13,13 @@ Subset, clean, and reformat the bank_marketing.csv dataset to create and store t
 
 * Split and tidy bank_marketing.csv, storing as three DataFrames called client, campaign, and economics, each containing the columns outlined in the notebook and formatted to the data types listed.
 * Save the three DataFrames to csv files, without an index, as client.csv, campaign.csv, and economics.csv respectively.
+
+### How to approach the project
+  1. Reading in and splitting the data
+     * Load the csv file and create three DataFrames.
+
+  2. Cleaning the data
+    * Clean, create, and delete columns.
+
+  3. Saving the data
+    * Save the three DataFrames as csv files.
