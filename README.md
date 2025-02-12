@@ -16,10 +16,10 @@ Subset, clean, and reformat the bank_marketing.csv dataset to create and store t
 
 ### How to approach the project
   1. Reading in and splitting the data
-     * Load the csv file and create three DataFrames.
+     - Load the csv file and create three DataFrames.
 
   2. Cleaning the data
-    * Clean, create, and delete columns.
+     - Clean, create, and delete columns.
 
   3. Saving the data
-    * Save the three DataFrames as csv files.
+     - Save the three DataFrames as csv files.
